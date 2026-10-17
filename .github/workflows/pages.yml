@@ -25,8 +25,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
-          # The repository owner must enable Pages in Settings once before
-          # configure-pages can discover/create the Pages site.
+        with:
+          enablement: true
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
