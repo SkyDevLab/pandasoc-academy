@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title"><title id="title">Panda SOC mascot</title>
+<ellipse cx="160" cy="282" rx="100" ry="17" fill="#dce9d9"/>
+<path d="M75 91C47 39 89 17 121 54M199 54c32-37 74-15 46 37" fill="#171c18" stroke="#171c18" stroke-width="10" stroke-linecap="round"/>
+<path d="M88 128c0-49 32-81 72-81s72 32 72 81v45c0 53-31 84-72 84s-72-31-72-84z" fill="#fff" stroke="#171c18" stroke-width="8"/>
+<ellipse cx="124" cy="129" rx="23" ry="31" transform="rotate(22 124 129)" fill="#171c18"/><ellipse cx="196" cy="129" rx="23" ry="31" transform="rotate(-22 196 129)" fill="#171c18"/>
+<circle cx="130" cy="133" r="6" fill="#fff"/><circle cx="190" cy="133" r="6" fill="#fff"/>
+<ellipse cx="160" cy="163" rx="25" ry="19" fill="#fff" stroke="#171c18" stroke-width="5"/><ellipse cx="160" cy="157" rx="8" ry="6" fill="#171c18"/><path d="M160 163v9m0 0c-8 10-16 3-17 0m17 0c8 10 16 3 17 0" fill="none" stroke="#171c18" stroke-width="4" stroke-linecap="round"/>
+<path d="M101 210c-16 2-29 14-27 33 2 15 15 25 31 21l25-9-9-39zM219 210c16 2 29 14 27 33-2 15-15 25-31 21l-25-9 9-39z" fill="#171c18"/>
+<path d="M119 224c-8 24 6 45 41 45s49-21 41-45" fill="#fff" stroke="#171c18" stroke-width="7"/>
+<path d="M141 232h38l-5 26h-28z" fill="#39864a"/><path d="M150 244l7 7 14-16" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M105 276c-4-12 5-20 18-20h74c13 0 22 8 18 20" fill="#171c18"/><path d="M139 274l21 8 21-8" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<path d="M65 91l-9-7m208 7 9-7" stroke="#39864a" stroke-width="5" stroke-linecap="round"/>
+</svg>
